@@ -1,19 +1,19 @@
 {
-    "contacts": [
-      {
-        "id": 1,
-        "name": "Sashko",
-        "number": "+380435345",
-      },
-      {
-        "id": 2,
-        "name": "Dushko",
-        "number": "+3804332445",
-      },
-      {
-        "id": 3,
-        "name": "Grinya",
-        "number": "+3804312445",
-      }
-    ]
+  "contacts":[
+    {
+      "id":1,
+      "name":"Sashko",
+      "number":"+380435345"
+    },
+    {
+      "id":2,
+      "name":"Dushko",
+      "number":"+3804332445"
+    },
+    {
+      "id":3,
+      "name":"Grinya",
+      "number":"+3804312445"
+    }
+  ]
 }
